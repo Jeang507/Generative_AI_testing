@@ -1,0 +1,4 @@
+generative_AI_testing/
+__pycache__/
+*.pyc
+.env
